@@ -1,3 +1,3 @@
 FROM alpine:3.9
 
-RUN apk add curl
+RUN apk add curl jq
